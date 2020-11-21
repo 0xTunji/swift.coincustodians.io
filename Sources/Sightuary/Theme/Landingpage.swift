@@ -70,7 +70,7 @@ private extension LandingPageHTMLFactory {
                         .class("responsive intro-container"),
                         .div(
                             .class("app-icon"),
-                            .a(.href("/"), .img(.src("/images/icon.png")))
+                            .a(.href("/"), .img(.src("/images/sightuary.svg")))
                         ),
                         .p(.class("app-name"), .text(site.name)),
 
