@@ -30,7 +30,7 @@ extension Website {
     }
 
     var credits: Link {
-        ("Some Developer(s)", "https://")
+        ("by S Tunji Turner + Sightuary Communications & Research", "https://")
     }
     
     var footerLinks: [Link] {

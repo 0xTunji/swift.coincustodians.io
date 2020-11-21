@@ -97,7 +97,7 @@ private extension Node where Context == HTML.BodyContext {
             .div(.class("separator")),
             .p(
                 .class("responsive credit"),
-                "Made with ♥ by S Tunji Turner + Sightuary Communications & Research",
+                "Made with ♥",
                 .a(
                     .href(site.credits.url),
                     .text(site.credits.name)
