@@ -6,7 +6,7 @@ typealias Link = (name: String, url: String)
 typealias AppStoreLink = String
 
 // This type acts as the configuration for your website.
-struct AppLandingPage: Website {
+struct SightuaryLandingPage: Website {
     enum SectionID: String, WebsiteSectionID {
         // Add the sections that you want your website to contain here:
         case index
@@ -18,8 +18,8 @@ struct AppLandingPage: Website {
 
     // Update these properties to configure your website:
     var url = URL(string: "https://app-landingpage-demo.netlify.com")!
-    var name = "Fantasy App"
-    var description = "A project I've been working on (in my dreams) for ages, soon available on iOS, iPadOS, macOS and also watchOS! Oh did I forget to mention tvOS?"
+    var name = "Sightuary"
+    var description = "The project I've been working on (in my dreams) for ages, soon available on iOS, iPadOS, macOS and also watchOS! Oh did I forget to mention tvOS?"
     var language: Language { .english }
     var imagePath: Path? { nil }
 }
@@ -41,5 +41,5 @@ extension Website {
 }
 
 // This will generate your website using the built-in Foundation theme:
-try AppLandingPage().publish(withTheme: .landingpage)
+try SightuaryLandingPage().publish(withTheme: .landingpage)
 
