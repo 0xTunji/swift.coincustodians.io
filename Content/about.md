@@ -2,7 +2,7 @@
 
 ---
 
-#### Let's start off with some cat ipsum!
+#### Coin Custodians Learn Crypto
 
 ---
 

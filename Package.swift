@@ -1,18 +1,18 @@
-// swift-tools-version:5.2
+// swift-tools-version:5.3
 
 import PackageDescription
 
 let package = Package(
-    name: "Sightuary",
+    name: "Coin Custodians",
     products: [
-        .executable(name: "Sightuary", targets: ["Sightuary"])
+        .executable(name: "Coin", targets: ["Coin"])
     ],
     dependencies: [
         .package(name: "Publish", url: "https://github.com/johnsundell/publish.git", from: "0.7.0")
     ],
     targets: [
         .target(
-            name: "Sightuary",
+            name: "Coin",
             dependencies: ["Publish"]
         )
     ]
