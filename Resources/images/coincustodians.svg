@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="756px" height="381px" viewBox="0 0 756 381" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 3</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-weight="normal">
+        <g id="Letter" transform="translate(-36.000000, -85.000000)">
+            <g id="Group-3" transform="translate(36.000000, 85.000000)">
+                <g id="Group" transform="translate(0.000000, 218.000000)" font-family="BebasNeue, Bebas Neue" font-size="135">
+                    <text id="Custodians" fill="#037F06">
+                        <tspan x="223.2" y="120.766718">Custodians</tspan>
+                    </text>
+                    <text id="Coin" letter-spacing="9" fill="#6DD400">
+                        <tspan x="0" y="121.233282">Coin</tspan>
+                    </text>
+                </g>
+                <g id="Group-2" transform="translate(225.000000, 0.000000)" fill="#6DD400" font-family="P22Bayer-Fonetik, P22Bayer" font-size="218.7" letter-spacing="14.5800004">
+                    <text id="W">
+                        <tspan x="0" y="175">W</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

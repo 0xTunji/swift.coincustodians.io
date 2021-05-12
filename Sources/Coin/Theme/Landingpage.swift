@@ -17,7 +17,7 @@ private struct LandingPageHTMLFactory<Site: Website>: HTMLFactory {
             .div(
                 .class("responsive sidebar"),
                 .div(
-                    .img(.src("/images/iphone.png"))
+                    .img(.src("/images/bitatm.png"))
                 )
             )
         }

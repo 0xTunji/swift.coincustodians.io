@@ -19,7 +19,7 @@ struct CoinLandingPage: Website {
     // Update these properties to configure your website:
     var url = URL(string: "https://app-landingpage-demo.netlify.com")!
     var name = "Coin Custodians"
-    var description = "The project I've been working on (in my dreams) for ages, soon available on iOS, iPadOS, macOS and also watchOS! Oh did I forget to mention tvOS?"
+    var description = "Leading lifestyle provide to crypto currency adoption and support. Coin Custodians embodies empowerment in the cryptomarket. Our Company focus is to give agency to those who want to participate in the crypto space as an individual. We want to service and support customers through the upcoming bear market. Targeting people who want fiat cutrrency conversion to crypto, at a moment's notice."
     var language: Language { .english }
     var imagePath: Path? { nil }
 }
