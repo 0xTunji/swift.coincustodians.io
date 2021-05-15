@@ -96,9 +96,8 @@ private extension Node where Context == HTML.BodyContext {
             .class("container footer"),
                         .p(
                 .class("responsive credit"),
-                "Made with ♥",
                 .a(
-                    .text(" 117 w st nw office 2 Washington DC 200001 ")
+                    .text("117 w st nw office 2 Washington DC 200001 ")
                 )
             ),
             .div(.class("separator")),
